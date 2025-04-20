@@ -1,6 +1,6 @@
 # Atithya
 
-A curated hospitality service platform built with the MERN stack, designed to simplify guest management and deliver seamless, immersive experiences for both users and hosts. It includes user authentication, image uploads, and secure session management—all within a clean, modern UI.
+**Atithya** is a curated hospitality service platform built with the MERN stack, designed to simplify guest management and deliver seamless, immersive experiences for both users and hosts. It includes user authentication, image uploads, and secure session management—all within a clean, modern UI.
 
 ![Atithya Screenshot](./public/icon/atithya_ss.png)
 
