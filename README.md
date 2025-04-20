@@ -1,6 +1,6 @@
 # Atithya
 
-![Atithya Screenshot](./public/assets/atithya-screenshot.png)
+![Atithya Screenshot](./public/icon/atithya_ss.png)
 
 **Atithya** is a hospitality service platform built with the MERN stack, designed to simplify guest management and provide seamless experiences for both users and hosts. It supports user authentication, image uploads, and secure session management, all with a clean and modern UI.
 
@@ -70,3 +70,11 @@ To run this project locally:
     ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to explore Atithya locally.
+
+## 🙏 Acknowledgements
+
+Special thanks to **Shraddha Dii** for her invaluable guidance, encouragement, and insights throughout the development of this project. Her support played a key role in shaping Atithya and making it placement-ready.
+
+## Contribution
+Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated!
+
